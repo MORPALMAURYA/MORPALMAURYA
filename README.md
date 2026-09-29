@@ -3,6 +3,11 @@ Note: the links and images in this document may point to external sources. Pleas
 👋 Hi, I'm Morpal Maurya
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="160px" height="160px" style="border-radius: 50%; object-fit: cover; border: 3px solid #36BCF7;" alt="Morpal Maurya" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student;Java+%26+Full-Stack+Developer;Spring+Boot+%26+Backend+Enthusiast;MERN+Stack+Developer;Exploring+Cloud+%26+DevOps" alt="Typing SVG" />
 </p>
 
