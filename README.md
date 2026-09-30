@@ -172,18 +172,7 @@ A responsive personal portfolio website showcasing my **skills, projects, resume
 
 🏆 **Java Collection Framework** — CodeHelp
 
----
-
-# 🎓 Education
-
-| Degree  | Institution                                 | Details            |
-| ------- | ------------------------------------------- | ------------------ |
-| 🎓 MCA  | Invertis University, Bareilly               | Currently Pursuing |
-| 🎓 BCA  | MJPRU, Bareilly                             | 66.5%              |
-| 📚 12th | Shri Gulab Rai Inter College, Bareilly      | 2021 • 65%         |
-| 📚 10th | Mahatma Gandhi H.S. Public School, Bareilly | 2018 • 72.83%      |
-
----
+----------------------------------
 
 # 📊 GitHub Analytics
 
