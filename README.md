@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Morpal Maurya
 
-### 💻 MCA Student • Java Backend Developer • Full-Stack Developer
+### 💻 MCA Student •MERN Stack AND Full Java  Developer • Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;MCA+3rd+Semester+Student;Full-Stack+Developer;Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
 
