@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Morpal Maurya
 
-### 💻 MCA Student •MERN Stack AND Full Java  Developer • Full-Stack Developer
+### 🚀 Aspiring Forward Deployed Engineer | Full-Stack Developer | AI & Cloud Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;MCA+3rd+Semester+Student;Full-Stack+Developer;Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Forward+Deployed+Engineer;Building+Full-Stack+Applications;Exploring+GenAI+%26+LLM+Applications;Learning+APIs%2C+Docker+%26+Cloud;Turning+Real-World+Problems+Into+Solutions" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/MORPALMAURYA">
@@ -24,235 +24,245 @@
 
 ## 🚀 About Me
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** at **Invertis University, Bareilly** and I'm in my **3rd semester**.
+I'm an **MCA student at Invertis University, Bareilly**, passionate about building software that solves real-world problems.
 
-I'm interested in **Java backend development, full-stack development, REST APIs, databases, and problem solving**.
+My career goal is to become a **Forward Deployed Engineer (FDE)** — combining software engineering, AI, customer problem-solving, and practical technology implementation to deliver impactful solutions.
 
-I enjoy learning by building real-world projects and continuously improving my programming and development skills.
+I enjoy building full-stack applications, integrating APIs, working with databases, and exploring how AI can make software more useful and intelligent.
 
-* 🎓 MCA — 3rd Semester
-* ☕ Focused on **Java & Backend Development**
-* 🌱 Learning **Spring Boot & Spring Security**
-* 🌐 Working with **React, Node.js & Express.js**
-* 🗄️ Working with **MySQL, PostgreSQL & MongoDB**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🐳 Exploring **Docker**
-* ☁️ Learning **AWS & Cloud Technologies**
+- 🎓 Pursuing MCA — 3rd Semester
+- 🎯 Career Goal: Forward Deployed Engineer
+- 🌐 Learning Full-Stack Development with React, Node.js, and Express.js
+- 🤖 Exploring Generative AI and LLM Application Development
+- 🔗 Interested in APIs, system integration, and backend engineering
+- 🗄️ Working with MongoDB, MySQL, and PostgreSQL
+- 🐳 Exploring Docker, AWS, and cloud deployment
+- 🧠 Improving problem-solving and DSA skills
+- 🚀 Focused on building practical, real-world projects
+
+---
+
+## 🧭 My FDE Technology Roadmap
+
+```text
+Full-Stack Development
+        ↓
+APIs, Databases & System Integration
+        ↓
+Generative AI & LLM Applications
+        ↓
+Docker, Cloud & Deployment
+        ↓
+Customer-Focused Problem Solving
+        ↓
+Forward Deployed Engineer
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp" alt="Programming Languages" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Technologies" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🤖 AI & LLM Applications
+
+```text
+Generative AI Fundamentals
+LLM APIs
+Prompt Engineering
+Retrieval-Augmented Generation (RAG)
+LangChain
+LangGraph
+AI Agents
+```
+
+### ☁️ Cloud & Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,aws" alt="Developer Tools and Cloud" />
 </p>
 
 ---
 
-## 🧠 Backend & Development Concepts
+## 🧩 Engineering Skills
 
 ```text
-REST APIs
+REST API Development
 CRUD Operations
-MVC Architecture
+Frontend-Backend Integration
 Authentication & Authorization
-Exception Handling
-Validation
-Database Integration
-Spring Data JPA
-Spring Security
-Data Handling
+Database Design and Integration
+MVC Architecture
+Error Handling and Validation
+Debugging and Problem Solving
+Git and GitHub
+Application Deployment
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎓 StudyNotion — EdTech Platform
+### 🎓 StudyNotion — EdTech Platform
 
-A full-stack **EdTech platform** designed for online learning and course management.
+A full-stack e-learning application focused on online education and course management.
 
-### ✨ Features
+**Key Features**
+- User authentication
+- Course browsing and enrollment
+- Frontend and backend integration
+- Database-backed application workflows
+- Responsive user interface
 
-* 🔐 User Authentication
-* 📚 Course Browsing
-* 📝 Course Enrollment
-* 🔗 Backend API Integration
-* 📱 Responsive UI
-* 🌐 Full-Stack Architecture
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
-### 🛠️ Tech Stack
-
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
-
-### 🔗 Live Demo
-
-👉 **[StudyNotion](https://studynotion-edtech-project-main-1r4.vercel.app/)**
+🔗 [Live Demo](https://studynotion-edtech-project-main-1r4.vercel.app/)
 
 ---
 
-## 🖥️ Mac OS Web Interface
+### 🖥️ Mac OS Web Interface
 
-An interactive **Mac OS-inspired web interface** built with React.js.
+An interactive, Mac OS-inspired web interface built with React.
 
-### ✨ Features
+**Key Features**
+- Desktop-style interface
+- Interactive windows
+- Reusable React components
+- Event-driven interactions
+- Responsive design
 
-* 🖥️ Desktop-style interface
-* 🪟 Draggable windows
-* 🖱️ Interactive elements
-* 🧩 Reusable React components
-* ⚡ Event-driven interactions
-* 📱 Responsive layout
+**Tech Stack:** `React` `JavaScript` `HTML` `CSS`
 
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript` `React.js`
-
-### 🔗 Live Demo
-
-👉 **[Mac OS Web Interface](https://mac-os-morpalmaurya-vqfp.vercel.app/)**
+🔗 [Live Demo](https://mac-os-morpalmaurya-vqfp.vercel.app/)
 
 ---
 
-## 🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
-A responsive personal portfolio website showcasing my **skills, projects, resume, and contact information**.
+A portfolio website showcasing my development skills, projects, and professional profile.
 
-### ✨ Features
+**Key Features**
+- Responsive UI
+- Animated interactions with GSAP
+- Reusable React components
+- Project showcase
+- Online deployment
 
-* 📱 Responsive UI
-* ✨ GSAP Animations
-* 🧩 Reusable React Components
-* ⚡ Smooth User Experience
-* 🚀 Vercel Deployment
+**Tech Stack:** `React` `JavaScript` `GSAP` `CSS`
 
-### 🛠️ Tech Stack
-
-`React.js` `JavaScript` `GSAP` `CSS`
-
-### 🔗 Live Portfolio
-
-👉 **[morpalmaurya.vercel.app](https://morpalmaurya.vercel.app/)**
+🔗 [Live Portfolio](https://morpalmaurya.vercel.app/)
 
 ---
 
-# 📜 Certifications
+## 🎯 What I'm Building Toward
 
-🏆 **MERN Stack Certification** — CodeHelp
+My goal is to develop the skills required to take a real-world problem from understanding to implementation.
 
-🏆 **C, C++ & DSA Programming Certification** — PWSkills / iNeuron
+- Build end-to-end full-stack applications
+- Integrate external APIs and third-party services
+- Develop AI-powered applications using LLMs
+- Learn RAG pipelines and AI agent workflows
+- Containerize applications using Docker
+- Deploy and operate applications on cloud platforms
+- Improve debugging, communication, and problem-solving
+- Learn to translate business requirements into technical solutions
 
-🏆 **Java Certification** — MySirG
+---
 
-🏆 **Java Collection Framework** — CodeHelp
+## 📜 Certifications
 
-----------------------------------
+- 🏆 MERN Stack Certification — CodeHelp
+- 🏆 C, C++ & DSA Programming Certification — PWSkills / iNeuron
+- 🏆 Java Certification — MySirG
+- 🏆 Java Collection Framework — CodeHelp
 
-# 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MORPALMAURYA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MORPALMAURYA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MORPALMAURYA&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MORPALMAURYA&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MORPALMAURYA&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=MORPALMAURYA&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MORPALMAURYA&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MORPALMAURYA&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph" />
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+## 📅 2026 Learning Goals
 
-```text
-☕ Java Backend Development
-🌱 Spring Boot
-🔐 Spring Security
-🧠 Data Structures & Algorithms
-🌐 REST API Development
-🗄️ Database Management
-🐳 Docker
-☁️ AWS & Cloud
-💻 Full-Stack Development
-```
+- Strengthen JavaScript, TypeScript, and full-stack development
+- Build reliable backend services and REST APIs
+- Learn practical GenAI and LLM application development
+- Explore RAG, LangChain, and LangGraph through projects
+- Improve Docker and AWS deployment skills
+- Understand system integration and application architecture
+- Build projects that solve practical user and business problems
+- Prepare for software engineering and FDE opportunities
 
 ---
 
-# 🚀 2026 Goals
-
-* ☕ Master **Java & Spring Boot**
-* 🔐 Build secure backend applications
-* 🌐 Build production-ready **REST APIs**
-* 🧠 Improve **DSA & problem solving**
-* ☁️ Learn **AWS & Cloud Technologies**
-* 🐳 Improve **Docker & DevOps**
-* 💼 Prepare for software development opportunities
-* 🚀 Build more real-world projects
-
----
-
-# 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:morpalmaurya2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/morpal-maurya/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/MORPALMAURYA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://morpalmaurya.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
@@ -261,16 +271,12 @@ A responsive personal portfolio website showcasing my **skills, projects, resume
 
 <div align="center">
 
-### 💡 Developer Mindset
+### 💡 My Engineering Philosophy
 
-> **"Learn. Build. Improve. Repeat."**
+> **Understand the problem. Build the solution. Deliver real-world impact.**
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=MORPALMAURYA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-<img src="https://komarev.com/ghpvc/?username=MORPALMAURYA&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<br><br>
-
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
 
 </div>
